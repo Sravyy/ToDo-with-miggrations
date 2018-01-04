@@ -34,6 +34,7 @@
     <None Remove="Views\Items\Index.html" />
     <None Remove="ToDoListWithMigrations.userprefs" />
     <None Remove="Categories.sql" />
+    <None Remove="todolist.sql" />
   </ItemGroup>
   <ItemGroup>
          <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="1.0.0" />
